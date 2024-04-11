@@ -1,0 +1,31 @@
+p {
+    color: #ffffff; 
+    background-color: #000000; 
+    font-size: 30px; 
+    font-family: 'Arial Narrow'; 
+    font-weight: bold;
+}
+
+.div1 {
+    height: 600px; 
+    width: 800px; 
+    background-color: #e6e6e6;
+}
+
+.div2 {
+    width: 400px; 
+    height: 40%; 
+    background-color: #cfcad0 ;
+}
+
+.div3 {
+    height: 150px; 
+    width: 80%; 
+    background-color: #adadad;
+}
+
+.div4 {
+    width: 400px; 
+    height: 300px; 
+    background-color: #a7a7a7;
+}
